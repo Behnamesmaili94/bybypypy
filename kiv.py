@@ -3,6 +3,8 @@ from kivy.app import App
 from kivy.uix.textinput import TextInput
 from kivy.uix.label import Label
 from kivy.uix.gridlayout import GridLayout
+from kivy.uix.widget import Widget
+
 
 class Mygrid(GridLayout):
     def __init__(self,**kewargs):

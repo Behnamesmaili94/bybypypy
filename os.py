@@ -67,8 +67,6 @@ class game():
     
 
 
-        
-
-
 if __name__ == "__main__":
-    File()
+    #File()
+    pass

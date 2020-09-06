@@ -7,6 +7,7 @@ from kivy.uix.widget import Widget
 
 
 class Mygrid(GridLayout):
+    
     def __init__(self,**kewargs):
         super(Mygrid,self).__init__(**kewargs)
         self.cols = 2

@@ -1,2 +1,2 @@
 # bybypypy
-Training my web python programing
+Training programming in kivy

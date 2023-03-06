@@ -10,6 +10,6 @@
         <br>
         
        
-        <script src="loops.js"></script>
+        <script src="methods.js"></script>
     </body>
 </html>
